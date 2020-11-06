@@ -1,2 +1,2 @@
-# Api-Clima
-ver climas de todo el mundo
+# Weather App Javascript
+![](./docs/screenshot.png)
